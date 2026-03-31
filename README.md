@@ -2,6 +2,9 @@
 
 PshchEdge is a trading analytics application focused on trade journaling, behavioral tracking, AI signal generation, and market alerts.
 
+## Demo Video
+[▶ Watch Demo](https://drive.google.com/drive/folders/15Q7eq3wlHyacbbW8alPjRUh06A49_V0H)
+
 ## Quick Start
 
 1. Install dependencies:
